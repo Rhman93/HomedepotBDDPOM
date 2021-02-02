@@ -83,6 +83,9 @@ public HomePageLink() throws IOException {
 		return driver.getTitle();
 		
 	}
+	public String closePageTitel(){
+		return driver.getTitle();
+	}
 	
 }
 
